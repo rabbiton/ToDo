@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  Todoey
+//  ToDo
 //
-//  Created by Philipp Muellauer on 02/12/2019.
-//  Copyright © 2019 App Brewery. All rights reserved.
+//  Created by Yarema Zaiachuk on 17.12.2019.
+//  Copyright © 2019 Yarema Zaiachuk. All rights reserved.
 //
 
 import UIKit
